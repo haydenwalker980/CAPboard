@@ -22,8 +22,7 @@ cloud-hosted providers.
  * Authentication gives you control over who can officially publish alerts.
  * Built-in support for a serving a feed of active alerts, both as XML and as an
  embeddable HTML widget.
- * Designed to work well on tablets and mobile devices as well as desktops.
-
+ * Designed to work well on tablets and mobile devices as well as desktops.  
 
 **A few notable limits on the current version:**
 
